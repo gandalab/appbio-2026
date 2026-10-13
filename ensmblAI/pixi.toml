@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Erika Ganda <gandalabgroup@gmail.com>"]
+channels = ["conda-forge"]
+name = "ensmblAI"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+wget = ">=1.25.0,<2"

@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Erika Ganda <gandalabgroup@gmail.com>"]
+channels = ["conda-forge"]
+name = "appbio-2026"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+tree = ">=2.3.2,<3"
